@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2581","should show error when username is empty","","Mon May 19 23:27:41 PST 2025","failed","Mon May 19 23:27:43 PST 2025","","Login Page","",""
+"","2576","should show error when password is empty","","Mon May 19 23:27:43 PST 2025","failed","Mon May 19 23:27:46 PST 2025","","Login Page","",""
+"","7773","should login with valid credentials","","Mon May 19 23:27:16 PST 2025","failed","Mon May 19 23:27:24 PST 2025","","Login Page","",""
+"","6895","should show error for invalid password","","Mon May 19 23:27:31 PST 2025","failed","Mon May 19 23:27:38 PST 2025","","Login Page","",""
+"","7285","should show error for invalid username","","Mon May 19 23:27:24 PST 2025","failed","Mon May 19 23:27:31 PST 2025","","Login Page","",""
+"","2385","should show error when both fields are empty","","Mon May 19 23:27:38 PST 2025","failed","Mon May 19 23:27:41 PST 2025","","Login Page","",""
